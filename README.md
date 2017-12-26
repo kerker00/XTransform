@@ -7,3 +7,12 @@ is a simple and basic gui wrapper for /usr/bin/xsltproc written in swift. It doe
 	- use the the NSOpenPanel and NSSavePanel in a sandboxed app
 
 The included XSL transformation example are inspired by www.w3schools.com
+
+
+## TODO
+
+Small things are still to do
+
+    - Documentation
+    - Provide example files xml and xslt
+    - ...
