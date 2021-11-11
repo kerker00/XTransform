@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<INVENTORY>
+	<ROOM type="kitchen">
+		<ITEM type="table">
+			<AGE>
+				17
+			</AGE>
+			<MANUFACTURER>
+				IKEA
+			</MANUFACTURER>
+			<COLOUR>
+				BROWN
+			</COLOUR>
+		</ITEM>
+		<ITEM type="oven">
+			<AGE>
+				2
+			</AGE>
+			<MANUFACTURER>
+				AEG
+			</MANUFACTURER>
+			<COLOUR>
+				SILVER
+			</COLOUR>
+		</ITEM>
+		<ITEM type="refrigerator">
+			<AGE>
+				3
+			</AGE>
+			<MANUFACTURER>
+				BOSCH
+			</MANUFACTURER>
+			<COLOUR>
+				SILVER
+			</COLOUR>
+		</ITEM>
+	</ROOM>
+	<ROOM type="livingroom">
+		<ITEM type="couche">
+			<AGE>
+				10
+			</AGE>
+			<MANUFACTURER>
+				Brühl und Sippold GmbH
+			</MANUFACTURER>
+			<COLOUR>
+				BROWN
+			</COLOUR>
+		</ITEM>
+	</ROOM>
+</INVENTORY>
